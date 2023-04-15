@@ -109,7 +109,8 @@ Building the recommended, I started with a PowerPoint presentation which outline
 
 #### The result of the analysis [https://github.com/OluwaseunPhronesis/KPMG-Virtual-Internship/blob/main/Dynamic%20Dashboard.pbix](url)
 - A visualization showing the past 3 years Purchase shows that Solex brand have the highest percentage of 21% while Trek Bicycle brand was the least percentage with 13%. 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/OluwaseunPhronesis/KPMG-Virtual-Internship/blob/main/Wealth%20segment.png)
 
 
 - Also, a visual on number of customers that purchased based on their wealth segmentation was “Mass customer” with 50.89%, followed by “High net worth” with 27.01% and “Affluent Customer” with 22.1% of customers. 
