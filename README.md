@@ -59,7 +59,7 @@ RFM stand for Recency, Frequency and Monetary.
 - **Frequency** is the total number of transactions made by the customer (during a defined period). How often do the customer purchase? On a Scale of 4 - 1
 - **Monetary** is the total amount that the customer has spent across all transactions (during a defined period). How much do they spend in total? On a Scale of 4 - 1
 
-RFM Analysis
+**RFM Analysis**
 
 This was done by using Recency, Product ID and Sum of Profit column from the dataset received in PivotTable Field to create R_Score, F_Score and M_Score to formed RFM Value.
 
@@ -101,5 +101,20 @@ A Bar chart was plotted to represent the RFM Segmentation. The Segmentation repr
 
 [] 	The Customer segment: They are indifferent to you and they represent problematic customer.
 
-The QUARTILE.INC return the quartile of a given data set based on percentile value from 0.1, inclusive	
+**Tip** The QUARTILE.INC return the quartile of a given data set based on percentile value from 0.1, inclusive	
 =IFS(H5=444,"Platinum Customer",AND(H5>444,H5>=433),"Very Loyal",AND(H5>433,H5>=421),"Becoming Loyal",AND(H5>421,H5>=344),"Recent Customer",AND(H5>344,H5>=323),"Potential Customer",AND(H5>323,H5>=311),"Late Bloomer",AND(H5>311,H5>=224),"Losing Customer",AND(H5>224,H5>=212),"High Risk Customer",AND(H5>212,H5>=124),"Almost Lost Customer",AND(H5>124,H5>=112),"Evasive Customer",H5=111,"Lost Customer") 
+
+### Data Analysis 
+Building the recommended, I started with a PowerPoint presentation which outlines the approach that we will be taking with the following 3 phrases as – Data Exploration: Model Development and Interpretation.	[](url)
+
+The result of the analysis Dashboard.pbix
+A visualization showing the past 3 years Purchase shows that Solex brand have the highest percentage of 21% while Trek Bicycle brand was the least percentage with 13%. 
+Also, a visual on number of customers that purchased based on their wealth segmentation was “Mass customer” with 50.89%, followed by “High net worth” with 27.01% and “Affluent Customer” with 22.1% of customers.
+Order status: From 36,940 Transactions, 99.28% order was Approved while 0.72% order was Cancelled.
+Recent customer segment has the highest Sprocket central Pty Ltd’s marketing and growth strategy for all the brands.
+Recommendation
+Based on the result from the customer segmentation analysis, Sprocket central Pty Ltd’s are encouraged to have more Solex Brand in stock as it is of high demand, they should see it as a brand that are bringing more profit to the business as it was showed in the visulisation for past 3 years purchase while Trek Bicycle Brand Marketing Team should do more advert on their brand for it to be well known to people.
+For continuing growth of the business, Sprocket central Pty Ltd’s should always target Recent customer for marketing and strategy growth
+Conclusion 
+This Internship shows the impact of RFM analysis in businesses to determine customer segment based on their review thereby letting the business owner know how their business grow and perceived by the customer’s patronage. Using the right tool to analyze segment is also as important as getting the intended result and you can’t miss it when you combine Excel with Power BI to accomplish that
+
