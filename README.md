@@ -109,8 +109,7 @@ Building the recommended, I started with a PowerPoint presentation which outline
 
 #### The result of the analysis
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]
-(https://github.com/OluwaseunPhronesis/KPMG-Virtual-Internship/blob/main/Dashboard.png)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/OluwaseunPhronesis/KPMG-Virtual-Internship/blob/main/Dashboard.png)
 
 [https://github.com/OluwaseunPhronesis/KPMG-Virtual-Internship/blob/main/Dynamic%20Dashboard.pbix](url)
 
