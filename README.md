@@ -108,8 +108,10 @@ A Bar chart was plotted to represent the RFM Segmentation. The Segmentation repr
 Building the recommended, I started with a PowerPoint presentation which outlines the approach that we will be taking with the following 3 phrases as – Data Exploration: Model Development and Interpretation.	[https://github.com/OluwaseunPhronesis/KPMG-Virtual-Internship/blob/main/PowerPoint%20Presentation.pptx](url)
 
 #### The result of the analysis
+
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]
 (https://github.com/OluwaseunPhronesis/KPMG-Virtual-Internship/blob/main/Dashboard.png)
+
 [https://github.com/OluwaseunPhronesis/KPMG-Virtual-Internship/blob/main/Dynamic%20Dashboard.pbix](url)
 
 - A visualization showing the number of customers that purchased based on their wealth segmentation was “Mass customer” with 50.89%, followed by “High net worth” with 27.01% and “Affluent Customer” with 22.1% of customers. 
