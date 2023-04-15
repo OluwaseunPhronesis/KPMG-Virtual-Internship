@@ -108,21 +108,22 @@ A Bar chart was plotted to represent the RFM Segmentation. The Segmentation repr
 Building the recommended, I started with a PowerPoint presentation which outlines the approach that we will be taking with the following 3 phrases as – Data Exploration: Model Development and Interpretation.	[https://github.com/OluwaseunPhronesis/KPMG-Virtual-Internship/blob/main/PowerPoint%20Presentation.pptx](url)
 
 #### The result of the analysis [https://github.com/OluwaseunPhronesis/KPMG-Virtual-Internship/blob/main/Dynamic%20Dashboard.pbix](url)
-- A visualization showing the past 3 years Purchase shows that Solex brand have the highest percentage of 21% while Trek Bicycle brand was the least percentage with 13%. 
+- A visualization showing the number of customers that purchased based on their wealth segmentation was “Mass customer” with 50.89%, followed by “High net worth” with 27.01% and “Affluent Customer” with 22.1% of customers. 
+
+- Also, a visual on visualization showing the past 3 years Purchase shows that Solex brand have the highest percentage of 21% while Trek Bicycle brand was the least percentage with 13%. 
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/OluwaseunPhronesis/KPMG-Virtual-Internship/blob/main/Wealth%20segment.png)
-
-
-- Also, a visual on number of customers that purchased based on their wealth segmentation was “Mass customer” with 50.89%, followed by “High net worth” with 27.01% and “Affluent Customer” with 22.1% of customers. 
-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
 
 - Order status: From 36,940 Transactions, 99.28% order was Approved while 0.72% order was Cancelled.
 
 - Recent customer segment has the highest Sprocket central Pty Ltd’s marketing and growth strategy for all the brands.
+
+- <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="[https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png](https://github.com/OluwaseunPhronesis/KPMG-Virtual-Internship/blob/main/RFm%20analysis.png)">
+</picture>
+[](url)
 
 ### Recommendation
 Based on the result from the customer segmentation analysis, Sprocket central Pty Ltd’s are encouraged to have more Solex Brand in stock as it is of high demand, they should see it as a brand that are bringing more profit to the business as it was showed in the visulisation for past 3 years purchase while Trek Bicycle Brand Marketing Team should do more advert on their brand for it to be well known to people.
