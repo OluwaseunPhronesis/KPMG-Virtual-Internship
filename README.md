@@ -131,5 +131,5 @@ Based on the result from the customer segmentation analysis, Sprocket central Pt
 For continuing growth of the business, Sprocket central Pty Ltd’s should always target Recent customer for marketing and strategy growth.
 
 ### Conclusion 
-This Internship shows the impact of RFM analysis in businesses to determine customer segment based on their review thereby letting the business owner know how their business grow and perceived by the customer’s patronage. Using the right tool to analyze segment is also as important as getting the intended result and you can’t miss it when you combine Excel with Power BI to accomplish that
+This Internship shows the impact of RFM analysis in businesses to determine customer segment based on their review thereby letting the business owner know how their business grow and perceived by the customer’s patronage. Using the right tool to analyze segment is also as important as getting the intended result and you can’t miss it when you combine Excel with Power BI to accomplish it.
 
