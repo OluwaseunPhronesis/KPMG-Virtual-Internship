@@ -118,12 +118,8 @@ Building the recommended, I started with a PowerPoint presentation which outline
 
 - Recent customer segment has the highest Sprocket central Pty Ltd’s marketing and growth strategy for all the brands.
 
-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="[https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png](https://github.com/OluwaseunPhronesis/KPMG-Virtual-Internship/blob/main/RFm%20analysis.png)">
-</picture>
-[](url)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/OluwaseunPhronesis/KPMG-Virtual-Internship/blob/main/RFm%20analysis.png)
+
 
 ### Recommendation
 Based on the result from the customer segmentation analysis, Sprocket central Pty Ltd’s are encouraged to have more Solex Brand in stock as it is of high demand, they should see it as a brand that are bringing more profit to the business as it was showed in the visulisation for past 3 years purchase while Trek Bicycle Brand Marketing Team should do more advert on their brand for it to be well known to people.
