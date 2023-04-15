@@ -41,9 +41,10 @@ The Organisation provided 3 datasets **(Customer demographic, Customer address a
 
 **The Customer address Data** has 27993 data records: 6Columns and 3999 Rows. The data includes customer ID, Address, postcode, State, Country and Property Valuation.
 
-**The Transactions in the past month Data** has 26000 data records: 13Columns and 2000 Rows. The data includes Transaction ID, Product ID, Customer ID, Transaction Date, Online Order, Order Status, Brand, Product line, Product class, Product Size, List Price, Standard Cost and Product first sold date. It is a table that has a primary key (Customer ID) that I used to connect to the Order Data. [](https://github.com/OluwaseunPhronesis/KPMG-Virtual-Internship/blob/main/KPMG_VI_New_raw_data_update_final%20-%20Copy.xlsx)
+**The Transactions in the past month Data** has 26000 data records: 13Columns and 2000 Rows. The data includes Transaction ID, Product ID, Customer ID, Transaction Date, Online Order, Order Status, Brand, Product line, Product class, Product Size, List Price, Standard Cost and Product first sold date. It is a table that has a primary key (Customer ID) that I used to connect to the Order Data. [https://github.com/OluwaseunPhronesis/KPMG-Virtual-Internship/blob/main/KPMG_VI_New_raw_data_update_final%20-%20Copy.xlsx](https://github.com/OluwaseunPhronesis/KPMG-Virtual-Internship/blob/main/KPMG_VI_New_raw_data_update_final%20-%20Copy.xlsx)
 
 The raw data fields were cleaned and transformed into other calculated fields for modelling purposes (i.e converting D.O.B to age or age groups), been pre-processed with Excel, I had to remove blank data, create some additional columns, and connect the Transaction table with Customer Demographic tables.
-After the cleaning and transformation, an email was drafted to identify the data quality issues and strategies to mitigate these issues. Then, how it may impact our analysis forward in phase 2.  Data Quality Email.docx
-Summary of Transformation Carried as can be seen in the email [](url)
+After the cleaning and transformation, an email was drafted to identify the data quality issues and strategies to mitigate these issues. Then, how it may impact our analysis forward in phase 2.
+
+Summary of Transformation Carried as can be seen in the email [https://github.com/OluwaseunPhronesis/KPMG-Virtual-Internship/blob/main/Data%20Quality%20Email.docx](url)
 
