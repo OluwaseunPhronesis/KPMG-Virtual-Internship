@@ -53,34 +53,53 @@ After data was transformed into the Pivot table, new measures such as RFM Segmen
 
 ### RFM Segmentation/Analysis
 **RFM Analysis** is a marketing technique used to quantitatively rank and group customers based on the recency, frequency and monetary total of their recent transactions to identity the best customers and perform targeted marketing campaigns. To predict how a new customer is likely to act in the future.
+
 RFM stand for Recency, Frequency and Monetary.
 - **Recency** is simply the amount of time since the customer’s most recent transaction (most businesses use days, though for others it might make sense to use months, weeks or even hours. How recently did the customer purchase? On a Scale of 4 - 1
 - **Frequency** is the total number of transactions made by the customer (during a defined period). How often do the customer purchase? On a Scale of 4 - 1
 - **Monetary** is the total amount that the customer has spent across all transactions (during a defined period). How much do they spend in total? On a Scale of 4 - 1
 
 RFM Analysis
+
 This was done by using Recency, Product ID and Sum of Profit column from the dataset received in PivotTable Field to create R_Score, F_Score and M_Score to formed RFM Value.
-444, 434, 424, 414, 441, 442, 443, 
+
+444, 434, 424, 414, 441, 442, 443
+
 344, 334, 324, 314, 341, 342, 343
+
 244, 234, 224, 214, 243, 242, 241
+
 144, 134, 124, 114, 141, 142, 143
 
 A Bar chart was plotted to represent the RFM Segmentation. The Segmentation represent the performance of the customer: -
 
 •	Platinum customer = 444 (most recent transaction, high transacted and most spent) Your best customers, they buy and spend a lot and made their last purchase recently
+
 •	Very Loyal >444, >=433 Very good customers – they spend a lot. X5X
-	The above customer segment: they love you and they represent your ideal customer
+
+[] 	The above customer segment: they love you and they represent your ideal customer
+
 •	Becoming Loyal >433, >=421 Recent customers, who made only a few purchases. 52X
+
 •	Recent customer >421, >=344 customers who buy frequently and spent a lot, but made their last purchase some time ago. X53 and X52
+
 •	Potential Customer >344, >=323 Recent customers, but who have already spent a lot. Added (registered) in less than 3 months but they spent more than ATM (Average Monetary Value)
+
 •	Late bloomer >323, > = 311 customers with recency and above-average spending. Customers whose new level < last level
+
 •	Losing Customer >311, >= 224 Customer who have spent a lot, but have been inactive for long time 22X
+
 •	High Risk Customer >224, >= 212 customer who bought frequently, but haven’t made any purchases in a long time. Customer whose new level< last level (3 times)
+
 •	Almost Lost Customer >121, >= 124 Customer who have spent a lot, but have been inactive for long time 22X
-	The above customer segment: They have sympathy from you and they represent your average customer
+
+[] 	The above customer segment: They have sympathy from you and they represent your average customer
+
 •	Evasive Customer >124, >= 112 Low frequency, low spender customers who haven’t bought in a longtime. (6months)
+
 •	Lost customer = 111 Your worst customers. They haven’t bought in a long time, they only bought once (or very few times) and they spent very little
-	The Customer segment: They are indifferent to you and they represent problematic customer.
+
+[] 	The Customer segment: They are indifferent to you and they represent problematic customer.
 
 The QUARTILE.INC return the quartile of a given data set based on percentile value from 0.1, inclusive	
 =IFS(H5=444,"Platinum Customer",AND(H5>444,H5>=433),"Very Loyal",AND(H5>433,H5>=421),"Becoming Loyal",AND(H5>421,H5>=344),"Recent Customer",AND(H5>344,H5>=323),"Potential Customer",AND(H5>323,H5>=311),"Late Bloomer",AND(H5>311,H5>=224),"Losing Customer",AND(H5>224,H5>=212),"High Risk Customer",AND(H5>212,H5>=124),"Almost Lost Customer",AND(H5>124,H5>=112),"Evasive Customer",H5=111,"Lost Customer") 
